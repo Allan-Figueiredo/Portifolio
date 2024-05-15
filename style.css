@@ -241,7 +241,7 @@ section.especialidades .flex {
 
 .especialidades .especialidades-box h3 {
     font-size: 28px;
-    margin: 15px 0;
+    margin: 10px 0;
     text-align: center;
     
 }
@@ -428,6 +428,10 @@ footer .line-footer p a {
     section.especiliadades {
         padding: 20px 8%;
         
+    }
+
+    section.especialidades .flex {
+        gap: 0;
     }
 
     /* SOBRE */
